@@ -1,6 +1,0 @@
-# EdgeOne CLI build output and local credentials
-.edgeone/
-.env
-.env.*
-
-node_modules/
