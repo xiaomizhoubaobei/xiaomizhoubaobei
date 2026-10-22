@@ -125,14 +125,14 @@
 
 <div align="center">
 
-<!-- 静态数字：由 CNB XMZZUZHI/fenxi 的 github_profile_report.md 出数，快照 2026-10-22 -->
-<img src="https://img.shields.io/badge/公开仓库-41-0969da?style=flat-square&logo=gitbook&logoColor=white" alt="Public repos" />
-<img src="https://img.shields.io/badge/本人提交-1383-2ea44f?style=flat-square&logo=git&logoColor=white" alt="Commits" />
-<img src="https://img.shields.io/badge/近一年贡献-2054-ff69b4?style=flat-square&logo=github&logoColor=white" alt="Contributions" />
-<img src="https://img.shields.io/badge/活跃仓-27%2F41-ffac33?style=flat-square&logo=statuspage&logoColor=white" alt="Active repos" />
-<img src="https://img.shields.io/badge/累计发布-24-8957e5?style=flat-square&logo=semanticrelease&logoColor=white" alt="Releases" />
-<img src="https://img.shields.io/badge/PR-186-6e40c9?style=flat-square&logo=gitpullrequest&logoColor=white" alt="Pull requests" />
-<img src="https://img.shields.io/badge/最长连胜-19%20天-f75c7e?style=flat-square&logo=flame&logoColor=white" alt="Longest streak" />
+<!-- 账号数：全部读 stats.mizhoubaobei.top/api/stats，EdgeOne 边缘函数现场调 GitHub API + KV 缓存 -->
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstats.mizhoubaobei.top%2Fapi%2Fstats&query=%24.public_repos&label=%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93&style=flat-square&color=0969da&logo=gitbook&logoColor=white&cacheSeconds=3600" alt="Public repos" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstats.mizhoubaobei.top%2Fapi%2Fstats&query=%24.commits&label=%E6%9C%AC%E4%BA%BA%E6%8F%90%E4%BA%A4&style=flat-square&color=2ea44f&logo=git&logoColor=white&cacheSeconds=3600" alt="Commits" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstats.mizhoubaobei.top%2Fapi%2Fstats&query=%24.contributions_year&label=%E8%BF%91%E4%B8%80%E5%B9%B4%E8%B4%A1%E7%8C%AE&style=flat-square&color=ff69b4&logo=github&logoColor=white&cacheSeconds=3600" alt="Contributions" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstats.mizhoubaobei.top%2Fapi%2Fstats&query=%24.active_repos&label=%E6%B4%BB%E8%B7%83%E4%BB%93&style=flat-square&color=ffac33&logo=statuspage&logoColor=white&cacheSeconds=3600" alt="Active repos" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstats.mizhoubaobei.top%2Fapi%2Fstats&query=%24.releases&label=%E7%B4%AF%E8%AE%A1%E5%8F%91%E5%B8%83&style=flat-square&color=8957e5&logo=semanticrelease&logoColor=white&cacheSeconds=3600" alt="Releases" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstats.mizhoubaobei.top%2Fapi%2Fstats&query=%24.pull_requests&label=PR&style=flat-square&color=6e40c9&logo=gitpullrequest&logoColor=white&cacheSeconds=3600" alt="Pull requests" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstats.mizhoubaobei.top%2Fapi%2Fstats&query=%24.longest_streak&label=%E6%9C%80%E9%95%BF%E8%BF%9E%E8%83%9C&suffix=%20%E5%A4%A9&style=flat-square&color=f75c7e&logo=flame&logoColor=white&cacheSeconds=3600" alt="Longest streak" />
 
 <!-- 动态数：直接读 GitHub API，不需要人工维护 -->
 <a href="https://github.com/xiaomizhoubaobei?tab=followers"><img src="https://img.shields.io/github/followers/xiaomizhoubaobei?style=flat-square&color=ff69b4&label=%E5%85%B3%E6%B3%A8&logo=github" alt="Followers" /></a>
@@ -143,18 +143,18 @@
 <img src="https://img.shields.io/github/last-commit/xiaomizhoubaobei/xiaomizhoubaobei?style=flat-square&color=ff8fab&label=%E4%B8%8A%E6%AC%A1%E6%8F%90%E4%BA%A4&logo=git" alt="Last commit" />
 <img src="https://img.shields.io/github/discussions/xiaomizhoubaobei/xiaomizhoubaobei?style=flat-square&color=0969da&label=%E8%AE%A8%E8%AE%BA&logo=github" alt="Discussions" />
 
-<img src="https://img.shields.io/badge/%E6%8C%81%E7%BB%AD%E6%8F%90%E4%BA%A4-181%2F365%20%E5%A4%A9-ff69b4?style=flat-square&logo=flame&logoColor=white" alt="Active days" />
-<img src="https://img.shields.io/badge/%E6%9C%80%E5%BF%99%E4%B8%80%E5%A4%A9-47%20%E6%AC%A1-f75c7e?style=flat-square&logo=lightning&logoColor=white" alt="Busiest day" />
-<img src="https://img.shields.io/badge/%E6%9C%80%E6%97%BA%E4%B8%80%E6%9C%88-376%20%E6%AC%A1-8957e5?style=flat-square&logo=chartdotjs&logoColor=white" alt="Busiest month" />
-<img src="https://img.shields.io/badge/%E6%B4%BB%E8%B7%83%E5%A4%A9%E5%9D%87-11.4%20%E6%AC%A1%2F%E5%A4%A9-6e40c9?style=flat-square&logo=target&logoColor=white" alt="Avg per active day" />
-<img src="https://img.shields.io/badge/Release%20%E4%B8%8B%E8%BD%BD-252-2ea44f?style=flat-square&logo=github&logoColor=white" alt="Release downloads" />
-<img src="https://img.shields.io/badge/%E5%BC%80%E6%BA%90%E5%B9%B4%E9%99%90-2024--05%20%E8%87%B3%E4%BB%8A-8b949e?style=flat-square&logo=archive&logoColor=white" alt="Account age" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstats.mizhoubaobei.top%2Fapi%2Fstats&query=%24.active_days&label=%E6%8C%81%E7%BB%AD%E6%8F%90%E4%BA%A4&suffix=%2F365%20%E5%A4%A9&style=flat-square&color=ff69b4&logo=flame&logoColor=white&cacheSeconds=3600" alt="Active days" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstats.mizhoubaobei.top%2Fapi%2Fstats&query=%24.busiest_day&label=%E6%9C%80%E5%BF%99%E4%B8%80%E5%A4%A9&suffix=%20%E6%AC%A1&style=flat-square&color=f75c7e&logo=lightning&logoColor=white&cacheSeconds=3600" alt="Busiest day" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstats.mizhoubaobei.top%2Fapi%2Fstats&query=%24.busiest_month&label=%E6%9C%80%E6%97%BA%E4%B8%80%E6%9C%88&suffix=%20%E6%AC%A1&style=flat-square&color=8957e5&logo=chartdotjs&logoColor=white&cacheSeconds=3600" alt="Busiest month" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstats.mizhoubaobei.top%2Fapi%2Fstats&query=%24.avg_per_active_day&label=%E6%B4%BB%E8%B7%83%E5%A4%A9%E5%9D%87&suffix=%20%E6%AC%A1%2F%E5%A4%A9&style=flat-square&color=6e40c9&logo=target&logoColor=white&cacheSeconds=3600" alt="Avg per active day" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstats.mizhoubaobei.top%2Fapi%2Fstats&query=%24.release_downloads&label=Release%20%E4%B8%8B%E8%BD%BD&style=flat-square&color=2ea44f&logo=github&logoColor=white&cacheSeconds=3600" alt="Release downloads" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstats.mizhoubaobei.top%2Fapi%2Fstats&query=%24.account_since&label=%E5%BC%80%E6%BA%90%E5%B9%B4%E9%99%90&suffix=%20%E8%87%B3%E4%BB%8A&style=flat-square&color=8b949e&logo=archive&logoColor=white&cacheSeconds=3600" alt="Account age" />
 
 </div>
 
 <div align="center">
 
-**🗣️ 主力语言**　`TypeScript 663 提交` · `Python 484` · `Kotlin 131` · `Shell 98`　—— 按提交数，不是按仓数
+**🗣️ 主力语言**　<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstats.mizhoubaobei.top%2Fapi%2Fstats&query=%24.language_line&label=%E6%8C%89%E6%8F%90%E4%BA%A4%E6%95%B0&style=flat-square&color=2ea44f&logo=codefactor&logoColor=white&cacheSeconds=3600" alt="Language commits" />　—— 按提交数，不是按仓数
 
 </div>
 
@@ -177,40 +177,33 @@
 
 <br />
 
-**静态数（快照 2026-10-22T14:00Z，由脚本抓取后写死）**
+**自动更新**：`https://stats.mizhoubaobei.top/api/stats` 是跑在 EdgeOne 边缘节点上的函数（`edge-functions/api/stats.js`），每次访问现场调 GitHub REST + GraphQL 聚合，结果写进 KV。TTL 15 分钟，过期后先返旧值、后台刷新，所以徽章不用等，也不会每次访问都打几十个请求。想看上次计算时间就翻 `generated_at`。
 
-- **公开仓库 41** — `public_repos` 字段，含 5 个 fork
-- **本人提交 1383** — 逐仓累加 `stats/contributors`，GitHub 侧有缓存，只作量级参考（另 8 个仓返回 202，未计入）
-- **近一年贡献 2054** — 贡献日历合计，含 issue / PR / review 与私有仓折算，不等于提交数
-- **活跃仓 27/41** — 未归档且近 90 天有 push，活跃率 66%
-- **累计发布 24** — 24 个 release，覆盖 11 个仓，最近一版 `astrbot_plugin_ots_memory@v0.0.1`（2026-10-19）
-- **PR 186** — Search 口径 187，含 7 条未合并；自开自合为主，中位合并 0.7 小时，出圈 PR 仅 2 条
-- **最长连胜 19 天** — 截至 2026-05-21；最近一年一周内日均摊 5.6 次贡献
+- **公开仓库** — GraphQL `repositories(privacy: PUBLIC)` 的 `totalCount`，含 fork
+- **本人提交** — Search `author:{login}` 的命中数，覆盖公开仓默认分支
+- **近一年贡献** — GraphQL `contributionsCollection` 的贡献日历 + `restrictedContributionsCount`，含 issue / PR / review 与私有仓折算，不等于提交数
+- **活跃仓** — 未归档且近 90 天有 push 的仓 / 公开仓总数
+- **累计发布** — 逐仓累加 `/releases` 条数
+- **PR** — Search 口径 `author:{login} is:pr`，含未合并
+- **最长连胜 / 持续提交 / 最忙一天 / 最旺一月 / 活跃天均** — 都从贡献日历算：连胜取日历内最长连续有贡献的天数，活跃天均 = 近一年贡献 ÷ 有贡献的天数
+- **Release 下载** — 逐仓累加 `/releases` 里 assets 的 `download_count`，不含 clone 与镜像拉取
+- **开源年限** — 账号 `createdAt`
+- **主力语言** — GraphQL `commitContributionsByRepository`，按仓主语言归并**近一年**提交数，所以是「按提交数」不是「按仓数」
 
-**手感数（同样写死，一年改一次就够）**
-
-- **持续提交 181/365 天** — 近一年 369 天里有贡献的天数，看着不到一半，但这 181 天撑起了 2054 次
-- **最忙一天 47 次** — 2026-04-15 与 2026-09-29 并列
-- **最旺一月 376 次** — 2026 年 5 月
-- **活跃天均 11.4 次** — 2054 ÷ 181，只在有提交的那天算
-- **Release 下载 252** — 逐仓累加 release assets 的 `download_count`，不含 clone 与镜像拉取
-- **开源年限 2024-05 至今** — 账号 `created_at`，约 2 年半
-
-**语言面**：仓数头名 TypeScript（17 个）、提交头名 TypeScript（663 次）、星数头名 Python（32 星）。
-星与提交不同源——`womenhealth-app` 22 星却只有 79 次提交，`astrbot_plugin_models_ai` 175 次提交只有 11 星。
+**Token**：函数读环境变量 `GITHUB_TOKEN`（PAT，`public_repo` + `read:user`；想算私有贡献再加 `repo`），只存在 EdgeOne 侧，不进仓库。再配一个 `REFRESH_TOKEN` 就能用 `?token=xxx&refresh=1` 手动强刷缓存。
 
 **动态数（`img.shields.io/github/...` 直读 API，无人工维护）**：关注 / 收获星 / 赞助 / 近一年活动 / 上次提交 / 讨论。
-shields 有缓存，刚提交完可能还是旧值，等几分钟自己会翻页。
+shields 自己缓存 1 小时，函数侧 KV 15 分钟，浏览器 5 分钟——刚提交完可能还是旧值，等几分钟自己会翻页。
 
-**已知偏差**：`commit-activity/y` 只数本仓默认分支（近一年 12 次），与静态的 1383 差着两个量级——一个数「这个主页多久动一次」，一个数「整个账号干了多少活」，别混着看。
+**已知偏差**：`commit-activity/y` 只数本仓默认分支，和「本人提交」差着两个量级——一个数「这个主页多久动一次」，一个数「整个账号干了多少活」，别混着看。
 
-完整分析：`XMZZUZHI/fenxi` 仓库的 `github_profile_report.md`（另有 `github_profile_repos.csv` 明细）。
+早期口径与明细还留在 `XMZZUZHI/fenxi` 仓库的 `github_profile_report.md`（另有 `github_profile_repos.csv`），现在只作交叉校验用。
 
 </details>
 
 <div align="center">
 
-<sub>🧪 待办：清掉 40/41 个仓的空 topics，把 11 个仓的 LICENSE 补齐——数好看，能被搜到才算数。</sub>
+<sub>🧪 待办：<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstats.mizhoubaobei.top%2Fapi%2Fstats&query=%24.repos_without_topics&label=%E7%A9%BA%20topics&suffix=%20%E4%BB%93&style=flat-square&color=8b949e&cacheSeconds=3600" alt="Repos without topics" /> · <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstats.mizhoubaobei.top%2Fapi%2Fstats&query=%24.repos_without_license&label=%E7%BC%BA%20LICENSE&suffix=%20%E4%BB%93&style=flat-square&color=8b949e&cacheSeconds=3600" alt="Repos without license" /> —— 数好看，能被搜到才算数。</sub>
 
 </div>
 
