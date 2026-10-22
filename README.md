@@ -12,7 +12,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xiaomizhoubaobei&style=flat-square&color=ff69b4" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/xiaomizhoubaobei?style=flat-square&color=ff69b4&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square" alt="Status" />
 </p>
