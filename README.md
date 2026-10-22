@@ -134,12 +134,41 @@
 <img src="https://img.shields.io/badge/PR-186-6e40c9?style=flat-square&logo=gitpullrequest&logoColor=white" alt="Pull requests" />
 <img src="https://img.shields.io/badge/最长连胜-19%20天-f75c7e?style=flat-square&logo=flame&logoColor=white" alt="Longest streak" />
 
+<!-- 动态数：直接读 GitHub API，不需要人工维护 -->
+<a href="https://github.com/xiaomizhoubaobei?tab=followers"><img src="https://img.shields.io/github/followers/xiaomizhoubaobei?style=flat-square&color=ff69b4&label=%E5%85%B3%E6%B3%A8&logo=github" alt="Followers" /></a>
+<a href="https://github.com/xiaomizhoubaobei?tab=stars"><img src="https://img.shields.io/github/stars/xiaomizhoubaobei?style=flat-square&color=ffac33&label=%E6%94%B6%E8%8E%B7%E6%98%9F&logo=githubsponsors&logoColor=white" alt="Stars" /></a>
+<a href="https://github.com/sponsors/xiaomizhoubaobei"><img src="https://img.shields.io/github/sponsors/xiaomizhoubaobei?style=flat-square&color=ea4aaa&label=%E8%B5%9E%E5%8A%A9&logo=githubsponsors" alt="Sponsors" /></a>
+
+<img src="https://img.shields.io/github/commit-activity/y/xiaomizhoubaobei/xiaomizhoubaobei?style=flat-square&color=2ea44f&label=%E8%BF%91%E4%B8%80%E5%B9%B4%E6%B4%BB%E5%8A%A8&logo=git" alt="Commit activity" />
+<img src="https://img.shields.io/github/last-commit/xiaomizhoubaobei/xiaomizhoubaobei?style=flat-square&color=ff8fab&label=%E4%B8%8A%E6%AC%A1%E6%8F%90%E4%BA%A4&logo=git" alt="Last commit" />
+<img src="https://img.shields.io/github/discussions/xiaomizhoubaobei/xiaomizhoubaobei?style=flat-square&color=0969da&label=%E8%AE%A8%E8%AE%BA&logo=github" alt="Discussions" />
+
+<img src="https://img.shields.io/badge/%E6%8C%81%E7%BB%AD%E6%8F%90%E4%BA%A4-181%2F365%20%E5%A4%A9-ff69b4?style=flat-square&logo=flame&logoColor=white" alt="Active days" />
+<img src="https://img.shields.io/badge/%E6%9C%80%E5%BF%99%E4%B8%80%E5%A4%A9-47%20%E6%AC%A1-f75c7e?style=flat-square&logo=lightning&logoColor=white" alt="Busiest day" />
+<img src="https://img.shields.io/badge/%E6%9C%80%E6%97%BA%E4%B8%80%E6%9C%88-376%20%E6%AC%A1-8957e5?style=flat-square&logo=chartdotjs&logoColor=white" alt="Busiest month" />
+<img src="https://img.shields.io/badge/%E6%B4%BB%E8%B7%83%E5%A4%A9%E5%9D%87-11.4%20%E6%AC%A1%2F%E5%A4%A9-6e40c9?style=flat-square&logo=target&logoColor=white" alt="Avg per active day" />
+<img src="https://img.shields.io/badge/Release%20%E4%B8%8B%E8%BD%BD-252-2ea44f?style=flat-square&logo=github&logoColor=white" alt="Release downloads" />
+<img src="https://img.shields.io/badge/%E5%BC%80%E6%BA%90%E5%B9%B4%E9%99%90-2024--05%20%E8%87%B3%E4%BB%8A-8b949e?style=flat-square&logo=archive&logoColor=white" alt="Account age" />
+
+</div>
+
+<div align="center">
+
+**🗣️ 主力语言**　`TypeScript 663 提交` · `Python 484` · `Kotlin 131` · `Shell 98`　—— 按提交数，不是按仓数
+
+</div>
+
+<div align="center">
+
 <img src="https://ghchart.rshah.org/ff69b4/xiaomizhoubaobei" alt="Contribution chart" width="820" />
 
 <img src="https://streak-stats.demolab.com?user=xiaomizhoubaobei&theme=radical&hide_border=true&locale=zh_Hans" height="165" alt="Streak" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xiaomizhoubaobei&theme=radical" height="165" alt="Stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xiaomizhoubaobei&theme=radical" height="165" alt="Most commit language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xiaomizhoubaobei&theme=radical" height="165" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xiaomizhoubaobei&theme=radical&utcOffset=8" height="165" alt="Productive time" />
 
 </div>
 
@@ -148,20 +177,42 @@
 
 <br />
 
+**静态数（快照 2026-10-22T14:00Z，由脚本抓取后写死）**
+
 - **公开仓库 41** — `public_repos` 字段，含 5 个 fork
-- **本人提交 1383** — 逐仓累加 `stats/contributors`，GitHub 侧有缓存，只作量级参考
+- **本人提交 1383** — 逐仓累加 `stats/contributors`，GitHub 侧有缓存，只作量级参考（另 8 个仓返回 202，未计入）
 - **近一年贡献 2054** — 贡献日历合计，含 issue / PR / review 与私有仓折算，不等于提交数
 - **活跃仓 27/41** — 未归档且近 90 天有 push，活跃率 66%
-- **累计发布 24** — 24 个 release，覆盖 10 个仓，最近一版 `astrbot_plugin_ots_memory@v0.0.1`（2026-10-19）
-- **PR 186** — 自开自合为主，中位合并耗时 0.7 小时；出圈 PR 仅 2 条
-- **最长连胜 19 天** — 近一年一周内日均摊 5.6 次贡献
+- **累计发布 24** — 24 个 release，覆盖 11 个仓，最近一版 `astrbot_plugin_ots_memory@v0.0.1`（2026-10-19）
+- **PR 186** — Search 口径 187，含 7 条未合并；自开自合为主，中位合并 0.7 小时，出圈 PR 仅 2 条
+- **最长连胜 19 天** — 截至 2026-05-21；最近一年一周内日均摊 5.6 次贡献
 
-语言面：仓数头名 TypeScript（17 个）、提交头名 TypeScript（663 次）、星数头名 Python（32 星）。
+**手感数（同样写死，一年改一次就够）**
+
+- **持续提交 181/365 天** — 近一年 369 天里有贡献的天数，看着不到一半，但这 181 天撑起了 2054 次
+- **最忙一天 47 次** — 2026-04-15 与 2026-09-29 并列
+- **最旺一月 376 次** — 2026 年 5 月
+- **活跃天均 11.4 次** — 2054 ÷ 181，只在有提交的那天算
+- **Release 下载 252** — 逐仓累加 release assets 的 `download_count`，不含 clone 与镜像拉取
+- **开源年限 2024-05 至今** — 账号 `created_at`，约 2 年半
+
+**语言面**：仓数头名 TypeScript（17 个）、提交头名 TypeScript（663 次）、星数头名 Python（32 星）。
 星与提交不同源——`womenhealth-app` 22 星却只有 79 次提交，`astrbot_plugin_models_ai` 175 次提交只有 11 星。
+
+**动态数（`img.shields.io/github/...` 直读 API，无人工维护）**：关注 / 收获星 / 赞助 / 近一年活动 / 上次提交 / 讨论。
+shields 有缓存，刚提交完可能还是旧值，等几分钟自己会翻页。
+
+**已知偏差**：`commit-activity/y` 只数本仓默认分支（近一年 12 次），与静态的 1383 差着两个量级——一个数「这个主页多久动一次」，一个数「整个账号干了多少活」，别混着看。
 
 完整分析：`XMZZUZHI/fenxi` 仓库的 `github_profile_report.md`（另有 `github_profile_repos.csv` 明细）。
 
 </details>
+
+<div align="center">
+
+<sub>🧪 待办：清掉 40/41 个仓的空 topics，把 11 个仓的 LICENSE 补齐——数好看，能被搜到才算数。</sub>
+
+</div>
 
 ---
 
