@@ -121,15 +121,47 @@
 
 ---
 
-### 📊 GitHub 数据
+### 📈 GitHub 数据
 
 <div align="center">
+
+<!-- 静态数字：由 CNB XMZZUZHI/fenxi 的 github_profile_report.md 出数，快照 2026-10-22 -->
+<img src="https://img.shields.io/badge/公开仓库-41-0969da?style=flat-square&logo=gitbook&logoColor=white" alt="Public repos" />
+<img src="https://img.shields.io/badge/本人提交-1383-2ea44f?style=flat-square&logo=git&logoColor=white" alt="Commits" />
+<img src="https://img.shields.io/badge/近一年贡献-2054-ff69b4?style=flat-square&logo=github&logoColor=white" alt="Contributions" />
+<img src="https://img.shields.io/badge/活跃仓-27%2F41-ffac33?style=flat-square&logo=statuspage&logoColor=white" alt="Active repos" />
+<img src="https://img.shields.io/badge/累计发布-24-8957e5?style=flat-square&logo=semanticrelease&logoColor=white" alt="Releases" />
+<img src="https://img.shields.io/badge/PR-186-6e40c9?style=flat-square&logo=gitpullrequest&logoColor=white" alt="Pull requests" />
+<img src="https://img.shields.io/badge/最长连胜-19%20天-f75c7e?style=flat-square&logo=flame&logoColor=white" alt="Longest streak" />
 
 <img src="https://ghchart.rshah.org/ff69b4/xiaomizhoubaobei" alt="Contribution chart" width="820" />
 
 <img src="https://streak-stats.demolab.com?user=xiaomizhoubaobei&theme=radical&hide_border=true&locale=zh_Hans" height="165" alt="Streak" />
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xiaomizhoubaobei&theme=radical" height="165" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xiaomizhoubaobei&theme=radical" height="165" alt="Most commit language" />
+
 </div>
+
+<details>
+<summary><b>🔍 这些数字怎么来的，点开看口径</b></summary>
+
+<br />
+
+- **公开仓库 41** — `public_repos` 字段，含 5 个 fork
+- **本人提交 1383** — 逐仓累加 `stats/contributors`，GitHub 侧有缓存，只作量级参考
+- **近一年贡献 2054** — 贡献日历合计，含 issue / PR / review 与私有仓折算，不等于提交数
+- **活跃仓 27/41** — 未归档且近 90 天有 push，活跃率 66%
+- **累计发布 24** — 24 个 release，覆盖 10 个仓，最近一版 `astrbot_plugin_ots_memory@v0.0.1`（2026-10-19）
+- **PR 186** — 自开自合为主，中位合并耗时 0.7 小时；出圈 PR 仅 2 条
+- **最长连胜 19 天** — 近一年一周内日均摊 5.6 次贡献
+
+语言面：仓数头名 TypeScript（17 个）、提交头名 TypeScript（663 次）、星数头名 Python（32 星）。
+星与提交不同源——`womenhealth-app` 22 星却只有 79 次提交，`astrbot_plugin_models_ai` 175 次提交只有 11 星。
+
+完整分析：`XMZZUZHI/fenxi` 仓库的 `github_profile_report.md`（另有 `github_profile_repos.csv` 明细）。
+
+</details>
 
 ---
 
